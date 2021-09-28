@@ -10,10 +10,11 @@ def index(request):
     return HttpResponse("Hello, world")
 
 @csrf_exempt
-def get_url(request):
+def get_page(request):
     if request.method == "POST":
         body_unicode = request.body.decode('utf-8')
         body_data = json.loads(body_unicode)
+        print(body_data['content'])
         print(body_data['url'])
     # Any process that you want
     data = {
