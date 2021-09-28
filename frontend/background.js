@@ -3,8 +3,8 @@ chrome.runtime.onMessage.addListener(messageReceived);
 
 function messageReceived(msg) {
    // Do your work here
-   console.log(msg);
-   const url = 'http://127.0.0.1:8000/phishing/get_url';
+
+   const url = 'http://127.0.0.1:8000/phishing/get_page';
    const options = {
    method: 'POST',
    headers: {
@@ -12,12 +12,15 @@ function messageReceived(msg) {
       'Content-Type': 'application/json;charset=UTF-8'
    },
    body: JSON.stringify({
-      url: msg,
+      content: msg['content'],
+      url: msg['url']
    })
    };
-
+   
    fetch(url, options)
    .then(response => {
       console.log(response.status);
    });
+
+   return true;
 }
