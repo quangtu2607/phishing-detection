@@ -17,3 +17,7 @@ in setting.py
 `load_dotenv()`
 
 `SECRET_KEY = str(os.getenv('SECRET_KEY'))`
+
+# install whois
+
+`pip install python-whois` 
