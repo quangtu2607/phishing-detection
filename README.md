@@ -1,6 +1,12 @@
 # phishing-detection
 Phishing detection chrome extension
 
+# Django run server
+
+cd to backend/mysite
+
+`python managa.py runserver`
+
 # Django key exposed
 `pip3 install python-dotenv`
 
