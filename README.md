@@ -12,7 +12,7 @@ cd to backend/mysite
 
 create .env file in root backend rootfolder
 
-Generate a Django Secret Key
+generate a Django Secret Key
 
 add the line `SECRET_KEY = YOUR_KEY`
 
