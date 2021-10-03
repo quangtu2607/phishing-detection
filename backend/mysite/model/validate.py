@@ -12,9 +12,9 @@ def isActive(status_code):
 def isInActive(status_code):
     return status_code in status_state.INACTIVE
 
-def isValid(url):
-    status = checker.set_subject(url).get_status()
-    return status
+# def isValid(url):
+#     status = checker.set_subject(url).get_status()
+#     return status
 
 def isIP(ip):
     status = ipChecker.set_subject(ip).get_status()
