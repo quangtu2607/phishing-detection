@@ -5,14 +5,16 @@ Phishing detection chrome extension
 
 cd to backend/mysite
 
-`python managa.py runserver`
+`python manage.py runserver`
 
 # Django key exposed
 `pip3 install python-dotenv`
 
 create .env file in root backend rootfolder
 
-add the line `SECRET_KEY = '7o&q@=gx652hinx%tm5^a)hi%ufw=n^9(cm00=7@-ej@(ymey%'`
+Generate a Django Secret Key
+
+add the line `SECRET_KEY = YOUR_KEY`
 
 in setting.py
 
