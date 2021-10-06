@@ -4,7 +4,7 @@ chrome.runtime.onMessage.addListener(messageReceived);
 function messageReceived(msg) {
    // Do your work here
 
-   const url = 'http://127.0.0.1:8000/phishing/get_page';
+   const url = 'http://127.0.0.1:8000/phishing/get_pageinfo';
    const options = {
    method: 'POST',
    headers: {

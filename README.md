@@ -28,3 +28,9 @@ in setting.py
 
 # install whois
 `pip install python-whois` 
+
+# install PyFunceble
+`pip install --upgrade --pre pyfunceble-dev`
+
+# install lxml
+`pip install lxml`
