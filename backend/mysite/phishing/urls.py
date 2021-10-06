@@ -6,5 +6,5 @@ from django.conf.urls import url
 
 urlpatterns = [
     path('', views.index, name='index'),
-    url(r'^get_page', views.get_page, name='get_page'),
+    url(r'^get_pageinfo', views.get_pageinfo, name='get_pageinfo'),
 ]
