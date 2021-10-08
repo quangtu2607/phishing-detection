@@ -1,16 +1,14 @@
 from django.shortcuts import render
 
 # Create your views here.
-import json
+import json, os , io, requests, random, sys 
 from django.contrib.auth.models import User #####
 from django.http import JsonResponse , HttpResponse ####
 from django.views.decorators.csrf import csrf_exempt
-import whois
+# import whois
 from itertools import cycle
 from urllib.parse import urlparse
-from phishing import validate, proxyAPI
-import requests, random
-
+from phishing import validate, proxyAPI                                                                        
 
 def index(request):
     return HttpResponse("Hello, world")
@@ -27,6 +25,7 @@ def get_pageinfo(request):
         # print(w)
 
     # Any process that you want
+
     url = body_data['url']
 
     user_agents = [
@@ -40,9 +39,19 @@ def get_pageinfo(request):
     user_agent = random.choice(user_agents) 
     headers = {'User-Agent': user_agent}       
     response = requests.get(url, allow_redirects=True, headers=headers)
-    print(response.content, response.url)
+
+    content = response.content.decode()
+
+    if os.path.exists("content.txt"):
+        os.remove("content.txt")
+
+    with open("content.txt", "w", encoding="utf-8") as f:
+        f.write(content)
+
+    print(response.url)
 
     data = {
             # Data that you want to send to javascript functions
     }
+
     return HttpResponse("Your response")

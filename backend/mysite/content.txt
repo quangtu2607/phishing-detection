@@ -1,0 +1,1257 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        
+
+        
+
+                
+
+        
+
+        <link rel="stylesheet" type="text/css" href="https://cdn.whatismybrowser.com/prod-developers/static/main/css/site.min.css?date=20210823" />
+
+        
+
+
+                
+        <title>Windows User Agents - WhatIsMyBrowser.com</title>
+        <meta name="description" content="We have over 4,358,099 user agents for Windows which you can browse and explore. They are categorised by the browser, operating system, hardware type and so on; you can also see how popular a user agent is." />
+
+        <!-- Meta tags -->
+        <link rel="canonical" href="https://developers.whatismybrowser.com/useragents/explore/operating_system_name/windows/" />
+
+        <!-- Mobile meta tags -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="HandheldFriendly" content="true" />
+        <meta name="format-detection" content="telephone=no" />
+
+        <!-- Open Graph meta tags -->
+        <meta property="fb:app_id" content="250309958422771" />
+        <meta property="fb:admins" content="100004242971350" />
+        <meta property="og:site_name" content="WhatIsMyBrowser.com" />
+        <meta property="og:type" content="Website" />
+        <meta property="og:title" content="Windows User Agents" /> 
+        <meta property="og:image" content="https://cdn.whatismybrowser.com/prod-developers/static/main/images/open-graph-logo.png" /> 
+        <meta property="og:description" content="We have over 4,358,099 user agents for Windows which you can browse and explore." />
+        <meta property="og:url" content="https://developers.whatismybrowser.com/useragents/explore/operating_system_name/windows/" />
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@whatismybrowser">
+        <meta name="twitter:creator" content="@whatismybrowser">
+        <meta name="twitter:title" content="Windows User Agents">
+        <meta name="twitter:description" content="We have over 4,358,099 user agents for Windows which you can browse and explore.">
+        
+        
+
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="https://cdn.whatismybrowser.com/prod-developers/static/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" sizes="152x152" href="https://cdn.whatismybrowser.com/prod-developers/static/main/images/apple-touch-icon.png" />
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://cdn.whatismybrowser.com/prod-developers/static/main/images/apple-touch-icon.png" />
+
+        <!-- Google -->
+        <meta name="google-site-verification" content="0F0ECU9Mnc7O7bpIelLuldRYwQQr-ZzFDOmzesu1O24" />
+        <link href="https://plus.google.com/u/0/111947230661321131467" rel="publisher" />
+
+
+        
+        
+        
+        
+            
+        <!-- Google Analytics -->
+        <script>
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-54012763-1']);
+        _gaq.push(['_setDomainName', 'developers.whatismybrowser.com']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        </script>
+            
+
+            
+        <!-- Google AdSense -->
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            
+        
+        
+
+        
+        
+        
+
+
+        
+
+
+    </head>
+    <body class=" section_useragents section_explore section_by section_field section_name section_field section_value    ">
+
+        
+            
+
+
+        <nav id="site" aria-label="Heading and navigation">
+
+            <div id="top-logo-and-name">
+                <a href="/"><img id="top-logo" src="https://cdn.whatismybrowser.com/prod-developers/static/main/images/logo/logo-nav-colored-96.png" alt="" width="48" height="48" /></a>
+                <h1 id="top-name"><a href="/"><span id="top-name-whatismybrowser">WhatIsMyBrowser</span> <span id="top-name-site">Developers</span></a></h1>
+            </div>
+
+            <ul id="main-nav">
+                
+                    <li class="api"><a href="/api/">API</a></li>
+                
+                    <li class="explore active"><a href="/useragents/explore/">Explore User Agents</a></li>
+                
+                    <li class="database"><a href="/useragents/database/">Database download</a></li>
+                
+                    <li class="parse"><a href="/useragents/parse/">Parse User Agents</a></li>
+                
+                    <li class="learn"><a href="/learn/">Learn</a></li>
+                
+            </ul>
+
+            <div id="account-action-buttons">
+                <a href="https://accounts.whatismybrowser.com" class="button button-filled-white" title="Log in to our API Accounts System">API Log In</a>
+                <a href="/api/pricing/" class="button button-filled-blue button-sign-up" title="Sign up for the API">API Sign Up</a>
+            </div>
+        </nav>
+
+
+        
+
+        <div id="content-base">
+
+        
+
+            <section class="section-block section-block-main-only" id="breadcrumbs">
+                <div class="corset">
+                    <div class="content-block-main">
+                        <nav aria-label="Breadcrumb">
+                            <ol vocab="http://schema.org/" typeof="BreadcrumbList">
+                                
+                                    
+
+                                <li property="itemListElement" typeof="ListItem">
+                                    <a property="item" typeof="WebPage" href="/?utm_source=whatismybrowsercom&utm_medium=internal&utm_campaign=breadcrumbs">
+                                        <span property="name">
+                                
+                                    Homepage
+                                
+                                        </span>
+                                    </a>
+                                    <meta property="position" content="1">
+                                </li>
+
+                                    
+                                
+                                    
+
+                                <li property="itemListElement" typeof="ListItem">
+                                    <a property="item" typeof="WebPage" href="/useragents/?utm_source=whatismybrowsercom&utm_medium=internal&utm_campaign=breadcrumbs">
+                                        <span property="name">
+                                
+                                    User Agents
+                                
+                                        </span>
+                                    </a>
+                                    <meta property="position" content="2">
+                                </li>
+
+                                    
+                                
+                                    
+
+                                <li property="itemListElement" typeof="ListItem">
+                                    <a property="item" typeof="WebPage" href="/useragents/explore/?utm_source=whatismybrowsercom&utm_medium=internal&utm_campaign=breadcrumbs">
+                                        <span property="name">
+                                
+                                    Explore
+                                
+                                        </span>
+                                    </a>
+                                    <meta property="position" content="3">
+                                </li>
+
+                                    
+                                
+                                    
+
+                                <li property="itemListElement" typeof="ListItem">
+                                    <a property="item" typeof="WebPage" href="/useragents/explore/operating_system_name/?utm_source=whatismybrowsercom&utm_medium=internal&utm_campaign=breadcrumbs">
+                                        <span property="name">
+                                
+                                    Operating System
+                                
+                                        </span>
+                                    </a>
+                                    <meta property="position" content="4">
+                                </li>
+
+                                    
+                                
+                                    
+
+                                <li property="itemListElement" typeof="ListItem" class="current" aria-current="page">
+                                    <a property="item" typeof="WebPage" href="/useragents/explore/operating_system_name/windows?utm_source=whatismybrowsercom&utm_medium=internal&utm_campaign=breadcrumbs">
+                                        <span property="name">
+                                
+                                    Windows
+                                
+                                        </span>
+                                    </a>
+                                    <meta property="position" content="5">
+                                </li>
+
+                                    
+                                
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </section>
+
+
+        
+    
+
+
+        
+
+        
+        
+
+    
+
+            <section class="section-block section-block-main-only">
+                <div class="corset">
+                    <div class="content-block-main">
+
+        <h1><span class="maybe-long">Windows</span> User Agents</h1>
+
+        <p>
+        
+            We've got 4.4 million users agents for software running on Windows.
+
+        
+
+        
+        This is a listing of only some of the most popular ones.
+        
+        </p>
+
+        
+
+
+        <p><a href="/useragents/database/">Download the whole our database of 84.9 million user agents</a>.</p>
+
+        
+<div class="fun fun-adsense fun-position-content">
+    <div class="fun-inner">
+    
+        <!-- WIMBDEV: Main 01 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-8548565564007782"
+             data-ad-slot="6289959575"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    
+        <div class="fun-info-footer">Ads by Google</div>
+    
+</div>
+
+
+        
+
+        <table class="table table-striped table-hover table-bordered table-useragents">
+            <thead>
+                <tr>
+                    <th>User agent</th>
+                        
+                        
+                            <th class="software-name-version">
+                                                                            
+
+                                            Software
+
+                            </th>
+                            <th class="software-type">
+                                                                            
+
+                                            Software Type
+
+                            </th>
+                            <th class="hardware-type">
+                                                                            
+
+                                            Hardware Type
+
+                            </th>
+
+                        
+                    
+                    <th class="popularity">
+                        
+                        
+                        Popularity
+                        
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+        
+                <tr>
+                    <td><a href="/useragents/parse/1302411chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 74.0.3729.169">Chrome 74</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/1252728chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 72.0.3626.121">Chrome 72</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/1274200chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 74.0.3729.157">Chrome 74</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/3905internet-explorer-windows-trident" class="code">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)</a></td>
+
+                        
+                            <td  title="Internet Explorer 6.0">Internet Explorer 6</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/2045internet-explorer-windows-trident" class="code">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</a></td>
+
+                        
+                            <td  title="Internet Explorer 6.0">Internet Explorer 6</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/627832chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 60.0.3112.113">Chrome 60</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/38internet-explorer-windows-trident" class="code">Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko</a></td>
+
+                        
+                            <td  title="Internet Explorer 11">Internet Explorer 11</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/696837edge-windows-edgehtml" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134</a></td>
+
+                        
+                            <td  title="Edge 42.17134">Edge 42</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/743087edge-windows-edgehtml" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763</a></td>
+
+                        
+                            <td  title="Edge 44.17763">Edge 44</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/6923955internet-explorer-windows-trident" class="code">Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; KTXN)</a></td>
+
+                        
+                            <td  title="Internet Explorer 9">Internet Explorer 9</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/32470firefox-windows-gecko" class="code">Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1</a></td>
+
+                        
+                            <td  title="Firefox 7.0.1">Firefox 7</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/994internet-explorer-windows-trident" class="code">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)</a></td>
+
+                        
+                            <td  title="Internet Explorer 6.0">Internet Explorer 6</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/324650firefox-windows-gecko" class="code">Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</a></td>
+
+                        
+                            <td  title="Firefox 54.0">Firefox 54</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/7228firefox-windows-gecko" class="code">Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1</a></td>
+
+                        
+                            <td  title="Firefox 40.1">Firefox 40.1</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/622180chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 60.0.3112.90">Chrome 60</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/59internet-explorer-windows-trident" class="code">Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko</a></td>
+
+                        
+                            <td  title="Internet Explorer 11">Internet Explorer 11</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/153internet-explorer-windows-trident" class="code">Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)</a></td>
+
+                        
+                            <td  title="Internet Explorer 7.0">Internet Explorer 7</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/1252990chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 72.0.3626.121">Chrome 72</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/7065firefox-windows-gecko" class="code">Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0</a></td>
+
+                        
+                            <td  title="Firefox 18.0">Firefox 18</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/3992internet-explorer-windows-trident" class="code">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)</a></td>
+
+                        
+                            <td  title="Internet Explorer 6.0">Internet Explorer 6</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/1302424chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 74.0.3729.169">Chrome 74</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/17255internet-explorer-windows-trident" class="code">Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; 125LA; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)</a></td>
+
+                        
+                            <td  title="Internet Explorer 9.0">Internet Explorer 9</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/2024internet-explorer-windows-trident" class="code">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)</a></td>
+
+                        
+                            <td  title="Internet Explorer 6.0">Internet Explorer 6</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/1258155edge-windows-edgehtml" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362</a></td>
+
+                        
+                            <td  title="Edge 44.18362">Edge 44</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/68internet-explorer-windows-trident" class="code">Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko</a></td>
+
+                        
+                            <td  title="Internet Explorer 11">Internet Explorer 11</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/93468003chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 92.0.4515.159">Chrome 92</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/7253internet-explorer-windows-trident" class="code">Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)</a></td>
+
+                        
+                            <td  title="Internet Explorer 6.0">Internet Explorer 6</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/20925chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 46.0.2490.71">Chrome 46</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/91926066chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 92.0.4515.131">Chrome 92</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/1727chrome-windows-webkit" class="code">Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1</a></td>
+
+                        
+                            <td  title="Chrome 21.0.1180.83">Chrome 21</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/740787chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 69.0.3497.100">Chrome 69</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/287837edge-windows-edgehtml" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393</a></td>
+
+                        
+                            <td  title="Edge 38.14393">Edge 38</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/670871chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 63.0.3239.132">Chrome 63</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/40714internet-explorer-windows-trident" class="code">Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)</a></td>
+
+                        
+                            <td  title="Internet Explorer 9.0">Internet Explorer 9</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/22526098chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 79.0.3945.88">Chrome 79</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/61269530edge-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75</a></td>
+
+                        
+                            <td  title="Edge 87.0.664.75">Edge 87</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/4587720edge-windows-edgehtml" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363</a></td>
+
+                        
+                            <td  title="Edge 44.18363">Edge 44</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/30530906chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 80.0.3987.149">Chrome 80</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/14997629chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 78.0.3904.108">Chrome 78</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/81287940chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 90.0.4430.212">Chrome 90</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/624959chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 60.0.3112.90">Chrome 60</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/622236chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 60.0.3112.90">Chrome 60</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/24386491chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 79.0.3945.130">Chrome 79</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/95434070chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 93.0.4577.63">Chrome 93</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/79723765chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 90.0.4430.93">Chrome 90</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/51851876chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 85.0.4183.121">Chrome 85</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/86857789chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 91.0.4472.124">Chrome 91</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/46327368chrome-windows-blink" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36</a></td>
+
+                        
+                            <td  title="Chrome 84.0.4147.105">Chrome 84</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/10620internet-explorer-windows-trident" class="code">Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)</a></td>
+
+                        
+                            <td  title="Internet Explorer 6.0">Internet Explorer 6</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+                <tr>
+                    <td><a href="/useragents/parse/288276edge-windows-edgehtml" class="code">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063</a></td>
+
+                        
+                            <td  title="Edge 40.15063">Edge 40</td>
+                            <td>Web Browser</td>
+                            <td>Computer</td>
+
+                        
+
+                    
+                    <td>Very common</td>
+                </tr>
+        
+            </tbody>
+        </table>
+        
+        
+<div class="fun fun-adsense fun-position-content">
+    <div class="fun-inner">
+    
+        <!-- WIMBDEV: Main 02 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-8548565564007782"
+             data-ad-slot="7679062862"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    
+        <div class="fun-info-footer">Ads by Google</div>
+    
+</div>
+
+
+        
+
+        <h2><a href="/useragents/database/">Download our database of user agents</a></h2>
+        <p>Do you want to easily download all 84.9 million user agents? It's quick and easy to do. Find out more about our <a href="/useragents/database/">User agent database</a>.</p>
+
+        <h2><a href="/api/docs/v2/sample-code/database-search">Advanced search of these user agents</a></h2>
+        <p>It's easy to search the millions of user agents we've got with the API. Use our <a href="/api/docs/v2/sample-code/database-search">search interface</a>.</p>
+        
+        <h2>Don't scrape these listings</h2>
+
+        <p>There is protection in place to stop the scraping of these user agent listings. We've had to do this because otherwise we get constantly overrun by inconsiderate or malfunctioning bots which overload the system. As such, we're forced to block traffic from popular web hosting companies, VPNs and Proxies, we also rate limit requests and have some other checks too. Scraping these listings will result in your IP getting blocked.</p>
+
+        <p>If you need to get access to the listings of user agents you can either get them in an easy to use <a href="/useragents/database/">database download</a> or via the <a href="/api/">API</a>. Thanks for understanding.</p>
+
+
+        <div id="pagination">
+            
+                
+                    
+                
+
+
+                
+                    
+
+                        
+                            <span class="current">1</span>
+                        
+
+                    
+                
+                    
+
+                        
+                            
+                            <a href="/useragents/explore/operating_system_name/windows/2">2</a>
+                            
+                        
+
+                    
+                
+                    
+
+                        
+                            
+                            <a href="/useragents/explore/operating_system_name/windows/3">3</a>
+                            
+                        
+
+                    
+                
+                    
+
+                        
+                            
+                            <a href="/useragents/explore/operating_system_name/windows/4">4</a>
+                            
+                        
+
+                    
+                
+                    
+
+                        
+                            
+                            <a href="/useragents/explore/operating_system_name/windows/5">5</a>
+                            
+                        
+
+                    
+                
+                    
+
+                        
+                            
+                            <a href="/useragents/explore/operating_system_name/windows/6">6</a>
+                            
+                        
+
+                    
+                
+                    
+
+                        
+                            
+                            <a href="/useragents/explore/operating_system_name/windows/7">7</a>
+                            
+                        
+
+                    
+                
+                    
+
+                        
+                            
+                            <a href="/useragents/explore/operating_system_name/windows/8">8</a>
+                            
+                        
+
+                    
+                
+                    
+
+                        
+                            
+                            <a href="/useragents/explore/operating_system_name/windows/9">9</a>
+                            
+                        
+
+                    
+                
+                    
+
+                        
+                            
+                            <a href="/useragents/explore/operating_system_name/windows/10">10</a>
+                            
+                        
+
+                    
+                
+
+
+                
+                    
+                
+        </div>
+
+        
+
+                    </div>
+                </div>
+            </section>
+
+
+
+
+
+        </div><!-- end of #content-base -->
+
+        
+
+<footer>
+
+    <div class="main-columns">
+
+        <div class="cta">
+            <h1><a href="/api/pricing/">Ready to try the API?</a></h1>
+            <a class="button button-filled-blue" href="/api/pricing/">Get started - It's free</a>
+        </div>
+
+        <div class="col col1">
+            <h2><a href="/useragents/explore/">User Agents</a></h2>
+            <ul>
+                <li><a href="/useragents/explore/">Explore User Agents</a></li>
+                <li><a href="/useragents/database/">User Agents Database</a></li>
+                <li><a href="/useragents/notes/" title="What does this fragment mean in a user agent?!">Fragment meanings</a></li>
+                <li><a href="/api/docs/v2/sample-code/database-search">Search User Agents</a></li>
+            </ul>
+        </div>
+
+        <div class="col col2">
+            <h2><a href="/api/">User Agent API</a></h2>
+            <ul>
+                
+                <li><a href="/api/about/use-cases/">Use Cases</a></li>
+                <li><a href="/api/pricing/">Pricing</a></li>
+                
+                <li><a href="/api/docs/latest/">Documentation</a></li>
+                <li><a href="/api/about/legal/">API Terms and Conditions</a></li>
+                
+            </ul>
+        </div>
+
+        <div class="col col3">
+            <h2><a href="/detection/frontend-library/latest/">Detection</a></h2>
+            <ul>
+                <li><a href="/useragents/parse/">Parse User Agents</a></li>
+                <li><a href="/detection/frontend-library/v1/">Frontend Library</a></li>
+                <li><a href="/useragents/explore/" title="What we can detect">Software &amp; Platforms</a></li>
+                <li><a href="/learn/unknown-user-agent-fragments/">Unknown fragments</a></li>
+                
+            </ul>
+        </div>
+
+        <div class="col col3">
+            <h2>General</h2>
+            <ul>
+                <li><a href="/about/">About</a></li>
+                
+                
+                <li><a href="https://www.whatismybrowser.com/about/contact/">Contact us</a></li> 
+                <li><a href="/about/legal/">Legal</a></li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="legal">Copyright 2010 - 2021 &copy; <a href="https://www.whatismybrowser.com">whatismybrowser.com</a></div>
+
+</footer>
+
+
+
+        
+        
+        
+        
+
+        
+            <script src="https://cdn.whatismybrowser.com/prod-developers/static/main/js/site.min.js"></script>
+        
+
+
+        
+
+    </body>
+</html>

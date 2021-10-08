@@ -1,11 +1,17 @@
 # phishing-detection
 Phishing detection chrome extension
 
+# install Django
+`python -m pip install Django`
+
 # Django run server
 
 cd to backend/mysite
 
 `python manage.py runserver`
+
+# install django-cors-headers
+`pip install django-cors-headers`
 
 # Django key exposed
 `pip3 install python-dotenv`
@@ -34,3 +40,6 @@ in setting.py
 
 # install lxml
 `pip install lxml`
+
+# install selenium
+`pip install selenium`
